@@ -4,11 +4,11 @@ H2 Database kullanılmıstır.
 
 Tarayıcı url : http://localhost:8080/h2-console 
 
-datasource url : jdbc:h2:mem:migrosDB
+datasource.url : jdbc:h2:mem:migrosDB
 
-datasource username : migros  
+datasource.username : migros  
 
-datasource password : migros
+datasource.password : migros
 
 Migros magazaları MIGROS_STORE tablosundadır.
 
