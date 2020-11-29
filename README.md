@@ -2,7 +2,7 @@
 
 H2 Database kullanılmıstır.
 
-Tarayıcı url : localhost:8080/h2-console 
+Tarayıcı url : http://localhost:8080/h2-console 
 
 datasource url : jdbc:h2:mem:migrosDB
 
